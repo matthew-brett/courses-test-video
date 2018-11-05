@@ -7,9 +7,9 @@ description: 'Chapter description goes here.'
 
 ```yaml
 type: VideoExercise
-key: 14bd3f68e5
+key: f0b83a3301
+lang: r
 xp: 50
+skills: 1
+video_link: //player.vimeo.com/video/276321141
 ```
-
-`@projector_key`
-4759d4874040b6c163111d73de8e2f4d
